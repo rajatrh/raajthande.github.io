@@ -1,0 +1,22 @@
+#skills > ul > li {
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#skills > ul > li:hover {
+   opacity: 0.7;
+}
+
+.expert {
+    background-color: green !important;
+    color: white !important;
+}
+
+.beginner {
+    background-color: #bcf5bc !important;
+}
+
+.moderate {
+    background-color: #79eb79 !important;
+    
+}
