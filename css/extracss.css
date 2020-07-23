@@ -20,3 +20,17 @@
     background-color: #79eb79 !important;
     
 }
+
+.projectcard >div > a {
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.projectcard >div > a:hover {
+    padding: 5px 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
